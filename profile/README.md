@@ -17,10 +17,11 @@
 | [혜림](https://github.com/hye77) | [진석](https://github.com/JasonKang97) | [영관](https://github.com/sssyyyggg) |
 | <img src="https://github.com/skybluejaecho.png" width="120" /> | <img src="https://github.com/devSeodong.png" width="120" /> | <img src="https://github.com/EunHyemin22.png" width="120" /> |
 | [재봉](https://github.com/skybluejaecho) | [서형](https://github.com/devSeodong) | [혜민](https://github.com/EunHyemin22) |
-| <img src="https://github.com/octocat.png" width="120" /> | <img src="https://github.com/lychee-55.png" width="120" /> | <img src="https://github.com/carvejade.png" width="120" /> |
-| [지영](https://github.com/) | [지원](https://github.com/lychee-55) | [지원](https://github.com/carvejade) |
+| <img src="https://github.com/jylee102.png" width="120" /> | <img src="https://github.com/lychee-55.png" width="120" /> | <img src="https://github.com/carvejade.png" width="120" /> |
+| [지영](https://github.com/jylee102) | [지원](https://github.com/lychee-55) | [지원](https://github.com/carvejade) |
 
 </div>
+
 ---
 
 ## 🧠 What We Study
