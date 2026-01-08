@@ -10,6 +10,8 @@
 
 ## 👥 Members
 
+<div align="center">
+  
 | <img src="https://github.com/HYE77.png" width="120" /> | <img src="https://github.com/JasonKang97.png" width="120" /> | <img src="https://github.com/sssyyyggg.png" width="120" /> |
 | :---: | :---: | :---: |
 | [혜림](https://github.com/hye77) | [진석](https://github.com/JasonKang97) | [영관](https://github.com/sssyyyggg) |
@@ -18,6 +20,7 @@
 | <img src="https://github.com/octocat.png" width="120" /> | <img src="https://github.com/lychee-55.png" width="120" /> | <img src="https://github.com/carvejade.png" width="120" /> |
 | [지영](https://github.com/) | [지원](https://github.com/lychee-55) | [지원](https://github.com/carvejade) |
 
+</div>
 ---
 
 ## 🧠 What We Study
