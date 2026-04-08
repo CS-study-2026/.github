@@ -19,8 +19,8 @@
 | [재봉](https://github.com/skybluejaecho) | [서형](https://github.com/devSeodong) | [혜민](https://github.com/EunHyemin22) |
 | <img src="https://github.com/jylee102.png" width="120" /> | <img src="https://github.com/lychee-55.png" width="120" /> | <img src="https://github.com/carvejade.png" width="120" /> |
 | [지영](https://github.com/jylee102) | [지원](https://github.com/lychee-55) | [지원](https://github.com/carvejade) |
-| | <img src="https://github.com/wldn-di.png" width="120" /> | |
-| |[지우](https://github.com/wldn-di) | |
+|  <img src="https://github.com/wldn-di.png" width="120" /> | <img src="https://github.com/nanjuktaek.png" width="120" /> ||
+| [지우](https://github.com/wldn-di) | [영빈](https://github.com/nanjuktaek) ||
 
 </div>
 
